@@ -1,0 +1,18 @@
+syntax= "proto3";
+
+package helloworld;
+
+
+message InputJson{
+    string data = 1;
+}
+
+message OutputJson{
+    string data = 1;
+}
+
+service Test {
+    rpc Hello(InputJson) returns (OutputJson){}
+}
+
+// python -m grpc_tools.protoc -I. --python_out=. --pyi_out=. --grpc_python_out=. test.proto
