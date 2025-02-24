@@ -1,0 +1,48 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 4660 (0x1234)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=IN, ST=WB, L=CCU, O=B, OU=C, CN=arnab.gov/emailAddress=A@BC.GOV
+        Validity
+            Not Before: Feb 17 12:20:09 2025 GMT
+            Not After : Feb 15 12:20:09 2035 GMT
+        Subject: C=IN, ST=WB, L=CCU, O=B, OU=C, CN=test.arnab.in/emailAddress=a@bc.gov
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (1024 bit)
+                Modulus:
+                    00:e1:5f:e2:36:d9:3b:59:4b:46:ce:4b:5b:4c:23:
+                    e1:16:66:6a:24:12:9c:6f:bc:3e:e8:73:9b:d9:8a:
+                    97:33:4d:14:03:72:6a:84:93:2f:94:59:95:99:e0:
+                    d2:62:f6:82:f2:98:77:dd:b4:32:92:ac:25:ef:f1:
+                    1c:5b:9e:e4:8a:e0:fc:97:f3:f7:27:e9:3c:8e:ea:
+                    d4:a8:83:56:00:42:56:cf:32:f9:fe:4e:37:d7:b2:
+                    9f:ec:bc:de:cf:6e:03:c2:81:ab:b8:11:89:60:77:
+                    00:de:29:60:db:fa:ef:de:c2:6e:6a:e3:b0:4a:cc:
+                    19:f9:57:91:1b:96:d2:c1:e1
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: md5WithRSAEncryption
+         42:b0:00:31:93:34:a3:78:69:ba:28:ae:e7:a0:fe:5b:d3:6e:
+         2a:52:ce:be:67:cc:ee:55:d0:09:15:da:f9:ac:81:66:68:c1:
+         a4:36:1b:f8:5b:b1:79:b9:b3:6d:ee:97:dd:1c:75:4a:19:42:
+         a1:d0:ec:61:25:74:bd:98:cc:9e:24:b8:7a:a5:e3:29:89:83:
+         63:91:53:b4:9e:15:ce:58:1e:9d:be:72:5e:60:44:c0:42:ee:
+         3e:88:7e:ee:07:51:2a:92:0c:62:01:50:c0:e2:74:e6:2f:d8:
+         b8:f8:b8:ea:28:bd:3e:3f:27:f6:8f:7b:1a:7c:f2:f8:35:53:
+         34:ee
+-----BEGIN CERTIFICATE-----
+MIICTjCCAbcCAhI0MA0GCSqGSIb3DQEBBAUAMG0xCzAJBgNVBAYTAklOMQswCQYD
+VQQIDAJXQjEMMAoGA1UEBwwDQ0NVMQowCAYDVQQKDAFCMQowCAYDVQQLDAFDMRIw
+EAYDVQQDDAlhcm5hYi5nb3YxFzAVBgkqhkiG9w0BCQEWCEFAQkMuR09WMB4XDTI1
+MDIxNzEyMjAwOVoXDTM1MDIxNTEyMjAwOVowcTELMAkGA1UEBhMCSU4xCzAJBgNV
+BAgMAldCMQwwCgYDVQQHDANDQ1UxCjAIBgNVBAoMAUIxCjAIBgNVBAsMAUMxFjAU
+BgNVBAMMDXRlc3QuYXJuYWIuaW4xFzAVBgkqhkiG9w0BCQEWCGFAYmMuZ292MIGf
+MA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDhX+I22TtZS0bOS1tMI+EWZmokEpxv
+vD7oc5vZipczTRQDcmqEky+UWZWZ4NJi9oLymHfdtDKSrCXv8RxbnuSK4PyX8/cn
+6TyO6tSog1YAQlbPMvn+TjfXsp/svN7PbgPCgau4EYlgdwDeKWDb+u/ewm5q47BK
+zBn5V5EbltLB4QIDAQABMA0GCSqGSIb3DQEBBAUAA4GBAEKwADGTNKN4aboorueg
+/lvTbipSzr5nzO5V0AkV2vmsgWZowaQ2G/hbsXm5s23ul90cdUoZQqHQ7GEldL2Y
+zJ4kuHql4ymJg2ORU7SeFc5YHp2+cl5gRMBC7j6Ifu4HUSqSDGIBUMDidOYv2Lj4
+uOoovT4/J/aPexp88vg1UzTu
+-----END CERTIFICATE-----
